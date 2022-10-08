@@ -1,0 +1,22 @@
+{
+    "internal_server_error": "يوجد خطأ داخلي حاول مرة اخرى",
+    "no_internet_connection": "لا يوجد اتصال بالإنترنت ، يرجى التحقق من الإتصال والمحاولة مرة أخرى",
+    "phone": "رقم الجوال",
+    "password": "كلمة المرور",
+    "conf_password": "تأكيد كلمة المرور",
+    "login": "تسجيل الدخول",
+    "forget_password": "نسيت كلمة المرور",
+    "signup_now": "ليس لديك حساب ؟ سجل الان",
+    "signup": "تسجيل",
+    "firstName": "الاسم الاول",
+    "lastName": "الاسم التاني",
+    "verifiy": "حفظ",
+    "logoImage": "assets/images/logo.jpg",
+    "all": "الكل",
+    "fastFood": "وجيات سريعة",
+    "sandwiches": "ساندوتشات",
+    "aribianFood": "وجبات عربية",
+    "booking": "حجز",
+    "avaliableTime": "المواعيد المتاحة",
+    "rememberMe": "تذكيري"
+}
